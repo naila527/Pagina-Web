@@ -1,0 +1,42 @@
+header {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(3, 3, 29);
+}
+naila{
+    background-color: rgb(162, 107, 218);
+    
+}  
+section{
+    background-color: rgb(238, 232, 228);
+}
+
+h1{
+  text-align: center;
+    background-color: rgb(107, 189, 107);
+}
+p{
+   
+    background-color: rgb(153, 238, 131);
+}
+h2{
+    
+    background-color: rgb(130, 130, 212);
+}
+h3{
+    background-color: darkkhaki;
+}
+section{
+    container: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+div{
+    text-align: center;
+}
+div h1{
+    text-align: center;
+}
+p{
+    background-color: rgb(255, 240, 252);
+}
